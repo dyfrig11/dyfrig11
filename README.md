@@ -2,10 +2,30 @@ Currently focused on web development, learning frontend and full stack workflows
  
 ## Tech Skills
 
-| **Frontend Development** | **Backend Development** | **Mobile Development** |
-|--------------------------|-------------------------|------------------------|
-| HTML                     | Laravel                 | Flutter                |
-| CSS                      | Python                  | Dart                   |
-| JavaScript               | REST API                |                        |
-| React                    |                         |                        |
-| Tailwind CSS             |                         |                        |
+### Frontend Development
+- HTML
+- JavaScript
+- React
+- Tailwind CSS
+
+### Backend Development
+- Laravel
+- REST API
+- MySQL
+- PostgreSQL
+
+### Mobile Development
+- Flutter
+- Dart
+
+### Programming Languages
+- JavaScript
+- Python
+- PHP
+- C++
+
+### Tools
+- Visual Studio Code
+- Git
+- GitHub
+- Figma
