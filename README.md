@@ -6,4 +6,4 @@ Currently focused on web development, learning frontend and full stack workflows
 | JavaScript               | REST API                | Dart                   | Git       | Python     |
 | React                    | MySQL                   |                        | GitHub    | PHP        |
 | Tailwind CSS             | PostgreSQL              |                        | Figma     | C++        |
-Ini sudah:
+
