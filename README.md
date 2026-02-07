@@ -1,6 +1,6 @@
 <p>
   <samp>
-    Hello, I'm <a href=" ">Dyfrig</a>. Currently focused on web development, learning frontend and full stack workflows, and building things on the web.
+    Hello, I'm <a href="https://dyfrig.netlify.app/">Dyfrig</a>. Currently focused on web development, learning frontend and full stack workflows, and building things on the web.
   </samp>
 </p>
 
